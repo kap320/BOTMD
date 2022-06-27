@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Lexxy+Official+🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Riza+Official+🙏"
             alt="YT Lexxy Official"
         />
     </a>
@@ -53,4 +53,4 @@ Click the deploy icon below !
 - [Group Bot Wa 2](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG)
 - [Group Bot Wa 3](https://chat.whatsapp.com/EDYV3OK6wHaDAb6J1iMnUa)
 - [YouTube ](https://youtube.com/c/LEX4YOUU)
-- [Whatsapp ](https://wa.me/6285789004732)
+- [Whatsapp ](https://wa.me/6281391883345)
